@@ -1,7 +1,6 @@
 # :man_technologist: WooJin Choi (woodyn1002)
 
-> :pencil2: Blog: https://velog.io/@woodyn1002  
-:email: Contact: <woodyn1002@gmail.com>
+:pencil2: Blog: https://velog.io/@woodyn1002
 
 # :clipboard: Projects
 ## pullgo
