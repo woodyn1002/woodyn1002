@@ -4,7 +4,14 @@
 * 문제를 비판적으로 바라보고, 해결책을 찾으러 논리적으로 파고드는 것을 좋아합니다.
 * 남들이 읽기 쉬운 코드나 문서를 작성하는 일을 즐깁니다.
 * 프로젝트에서 생긴 이야기들을 [블로그](https://velog.io/@woodyn1002)에 남기고 있습니다.
-
+# 🛠️ Skills
+* Java, Kotlin
+* Gradle
+* Spring Boot, Spring MVC
+* Spring Data JPA, Hibernate
+* MySQL
+* JUnit5, Mockito
+* Git
 # :clipboard: Projects
 ## pullgo
 > 소규모 학원들을 위한 수업 관리와 시험 응시 플랫폼
