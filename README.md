@@ -15,6 +15,8 @@
 # :clipboard: Projects
 ## 수업 관리 플랫폼 'pullgo'
 > 소규모 학원들을 위한 수업 관리와 시험 응시 플랫폼
+
+:octocat: Repo: https://github.com/FirstianB101/pullgo-server
 ### 📝 프로젝트 개요
 * 자체적인 홈페이지를 갖지 않는 소규모 동네 학원들을 위해 수업 관리와 시험 응시 기능을 제공하는 플랫폼입니다.
 * 총 5인 구성의 팀으로 진행했습니다.
@@ -37,8 +39,6 @@
 * Spring REST Docs
 * AWS (EC2, CodeDeploy)
 * Git, GitHub
-### 📁 리포지터리
-* https://github.com/FirstianB101/pullgo-server
 ### 📄 프로젝트 관련 자료
 * [REST API 가이드 문서](https://api.pullgo.kr/v1/docs/api-guide.html)
 * [프로젝트 진행 회고록](https://velog.io/@woodyn1002/series/poolgo)
