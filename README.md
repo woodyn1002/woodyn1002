@@ -22,7 +22,7 @@
 * 2021년 1월 ~ (진행중)
 ### :raising_hand_man: 수행 내용
 * 팀원 1인과 함께 백엔드 서버 개발 파트를 맡았습니다.
-* 팀원과 함께 도메인 [Entity 모델링](https://drive.google.com/file/d/1KIiR9p_zbi99eTOl9kfQb_ljQgN4wq2h/view?usp=sharing)과 REST API 설계를 진행했습니다.
+* 팀원과 함께 도메인 [Entity 모델링](https://drive.google.com/file/d/1KIiR9p_zbi99eTOl9kfQb_ljQgN4wq2h/view?usp=sharing)과 [REST API 설계](https://api.pullgo.kr/v1/docs/api-guide.html)를 진행했습니다.
 * 개발 초기에는 페어 프로그래밍을 진행했고, 이후에는 GitHub의 [Issues](https://github.com/FirstianB101/pullgo-server/issues?q=is%3Aissue+is%3Aclosed)와 [Pull Requests](https://github.com/FirstianB101/pullgo-server/pulls?q=is%3Apr+is%3Aclosed) 기능을 활용해 협업을 효율적으로 수행했습니다.
 * 중요한 의사결정이 필요하면 주어진 선택지의 각 장단점을 분석하고 팀원과 의견을 조율했습니다.
 * 원활한 소통을 위해 Pull Request에서 Issue의 해결 방식을 논리적으로 설명하고, 수정한 코드를 검증하는 테스트 코드를 함께 커밋했습니다.
