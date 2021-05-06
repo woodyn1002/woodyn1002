@@ -60,5 +60,10 @@
 * [MySQL Slow Query Log를 활용하여 특정 쿼리에 의한 성능 저하를 찾아](https://velog.io/@woodyn1002/my-klas-%EC%BF%BC%EB%A6%AC-%EA%B0%9C%EC%84%A0-1)내어 쿼리를 개선했습니다. (약 950ms 개선)
 * [`ConcurrentHashMap`을 통해 만석 강의를 캐싱하는 로직을 작성](https://velog.io/@woodyn1002/my-klas-%EC%BF%BC%EB%A6%AC-%EA%B0%9C%EC%84%A0-2)했습니다. (약 60ms 개선)
 * 2000명의 학생이 6개 강의를 동시 신청할 때, 최종 결과 평균 응답 시간 383ms로, 사용자 경험을 개선하는 데에 성공했습니다.
+### 🛠️ 주요 기술
+* Kotlin, JVM
+* Spring Boot, Spring MVC
+* Spring Data JPA, Hibernate
+* MySQL
 ### 📄 프로젝트 관련 자료
 * [프로젝트 진행 회고록](https://velog.io/@woodyn1002/series/my-klas)
