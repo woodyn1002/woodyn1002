@@ -35,9 +35,8 @@
 * Spring Boot, Spring MVC, Spring Security
 * Spring Data JPA, Hibernate
 * MySQL
-* JUnit5, Mockito
+* JUnit, Mockito
 * Spring REST Docs
-* AWS (EC2, CodeDeploy)
 * Git, GitHub
 ### 📄 프로젝트 관련 자료
 * [REST API 가이드 문서](https://api.pullgo.kr/v1/docs/api-guide.html)
@@ -61,7 +60,7 @@
 * [`ConcurrentHashMap`을 통해 만석 강의를 캐싱하는 로직을 작성](https://velog.io/@woodyn1002/my-klas-%EC%BF%BC%EB%A6%AC-%EA%B0%9C%EC%84%A0-2)했습니다. (약 60ms 개선)
 * 2000명의 학생이 6개 강의를 동시 신청할 때, 최종 결과 평균 응답 시간 383ms로, 사용자 경험을 개선하는 데에 성공했습니다.
 ### 🛠️ 주요 기술
-* Kotlin, JVM
+* Kotlin
 * Spring Boot, Spring MVC
 * Spring Data JPA, Hibernate
 * MySQL
